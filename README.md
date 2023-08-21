@@ -4,7 +4,14 @@
 *21st August* 
 
 ### Today's progress ###
-Learn about GitHub gists today. Gists are just a simple way to share code snippets and entire files. They work as repositories and can be cloned or forked by other people (if set to public).  [https://gist.github.com/]. I used gist to add the Totoro gif. [Check it out here:](https://gist.github.com/izazw/91d94f1a0fcf047e85ef9c75733fd09f)
+Learn about GitHub gists today. Gists are just a simple way to share code snippets and entire files. They work as repositories and can be cloned or forked by other people (if set to public).  [https://gist.github.com/]. I used gist to add the Totoro gif. [Check it out here.](https://gist.github.com/izazw/91d94f1a0fcf047e85ef9c75733fd09f)
+
+
+### Thoughts ###
+Came back after camping holidays (explored Quebec's fiords and mountains in Grands Jardins) and need to stretch again my coding muscles! I'm updating my portfolio and can't wait to share the results. 
+
+### Links to work / resources ###
+[Gists basics](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
 
 ## 1 ##
