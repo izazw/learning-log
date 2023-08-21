@@ -1,5 +1,12 @@
 # Learning log
 
+## 2 ##
+*21st August* 
+
+### Today's progress ###
+Learn about GitHub gists today. Gists are just a simple way to share code snippets and entire files. They work as repositories and can be cloned or forked by other people (if set to public).  [https://gist.github.com/]. I used gist to add the Totoro gif. [Check it out here:](https://gist.github.com/izazw/91d94f1a0fcf047e85ef9c75733fd09f)
+
+
 ## 1 ##
 *10th August* 
 
