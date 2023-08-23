@@ -1,5 +1,28 @@
 # Learning log
 
+<!-- 
+## 2 ##
+*21st August*
+### Today's progress ###
+### Thoughts ###
+### Links to work / resources ###
+
+-->
+
+## 3 ##
+*22st August*
+
+### Today's progress ###
+Spent some time manipulating arrays and transforming strings. 
+
+* came across unary plus (+). 
+
+### Thoughts ###
+
+As part of my post-Bootcamp coding routine, I coorganize pair programming sessions. I primarily concentrate on JavaScript, considering it a solid foundation for my ongoing learning. I found pair programming particularly useful in boosting confidence to learn, code, and solve problems in public, fostering open communication. It brings a lot of enjoyment from puzzle-solving too! Good to see how it steadily enhances my grasp of JavaScript.
+
+### Links to work / resources ###
+
 ## 2 ##
 *21st August* 
 
