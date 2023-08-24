@@ -5,12 +5,39 @@
 *21st August*
 ### Today's progress ###
 ### Thoughts ###
-### Links to work / resources ###
+### Links to work/resources ###
 
 -->
+## 4 ##
+*23rd August*
+
+### Today's progress ###
+* learnt at() array method, a relatively new addition to JavaScript. At() allows for the usage of relative indexing and is pretty cool! From my perspective, it adds a lot of readability to the code, and is so much more intuitive. Have a look here:
+
+        const myGatineau =["Pink Lake Trail", "King Mountain Trail", "Luskville Falls Trail",
+        "Champlain Lookout Trail", "Wolf Trail"]
+        console.log(myGatineau.at(0))
+        //output: "Pink Lake Trail"
+        console.log(myGatineau.at(-1))
+        //output: "Wolf Trail"
+
+        // And before at() it could be achieved by:
+         console.log(myGatineau[MyGatineau.length - 1])
+        //output: "Wolf Trail"
+        
+
+  * used the spread operator to find the smallest value in the array with Math.min() to solve [one of kata in Codewars](https://www.codewars.com/kata/577a98a6ae28071780000989) 
+
+### Thoughts ###
+
+As I practice pair programming with a new colleague recently, I feel that is more than ever to remember, that it's okay to not know the answer. It's okay to make mistakes. And it's so good to have an extra pair of eyes to debug the code (and it makes it so much more time-efficient. You know, I used to think that programming was all about doing your thing solo, like a one-person show. But the more I dive into it, the more I realize that it's actually a team sport. It's pretty cool how it's all about teamwork in the end!
+
+### Links to work/resources ###
+[More about at()](https://www.freecodecamp.org/news/javascript-at-method/)
+
 
 ## 3 ##
-*22st August*
+*22nd August*
 
 ### Today's progress ###
 * I spent some time with my pair programming partner on Codwars challenges, manipulating arrays and transforming strings. I needed to check the documentation of join(), especially how it behaves on the arrays containing arrays (you cannot control the separators of the nested arrays!) 
@@ -37,7 +64,7 @@
 
 As part of my post-Bootcamp coding routine, I coorganize pair programming sessions. I primarily concentrate on JavaScript, considering it a solid foundation for my ongoing learning. I found pair programming particularly useful in boosting confidence to learn, code, and solve problems in public, fostering open communication. It brings a lot of enjoyment from puzzle-solving too! Good to see how it steadily enhances my grasp of JavaScript.
 
-### Links to work / resources ###
+### Links to work/resources ###
 [Unary plus(+) documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_plus)
 
 [join() documentation ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
@@ -53,7 +80,7 @@ Learn about GitHub gists today. Gists are just a simple way to share code snippe
 ### Thoughts ###
 Came back after camping holidays (explored Quebec's fiords and mountains in Grands Jardins) and need to stretch again my coding muscles! I'm updating my portfolio and can't wait to share the results. 
 
-### Links to work / resources ###
+### Links to work/resources ###
 [Gists basics](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
 
@@ -66,6 +93,6 @@ Came back after camping holidays (explored Quebec's fiords and mountains in Gran
 ### Thoughts ###
 I hope that this log will help me to embrace the fact that learning is a continuous process, celebrate small victories, and view challenges as opportunities for growth. I treat is a reminder that the journey matters as much as the destination!  
 
-### Links to work / resources ###
+### Links to work/resources ###
 * [Wes Bos' intro to Markdown](https://masteringmarkdown.com/) 
 
