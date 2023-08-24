@@ -27,11 +27,11 @@
         //output: "Wolf Trail"
         
 
-  * used the spread operator to find the smallest value in the array with Math.min() to solve [one of kata in Codewars](https://www.codewars.com/kata/577a98a6ae28071780000989) 
+* used the spread operator to find the smallest value in the array with Math.min() to solve [one of kata in Codewars](https://www.codewars.com/kata/577a98a6ae28071780000989) 
 
 ### Thoughts ###
 
-As I practice pair programming with a new colleague recently, I discovere once again how it's good to have an extra pair of eyes to debug the code (and it makes it so much more time-efficient). You know, I used to think that programming was all about doing your thing solo, like a one-person show. But the more I dive into it, the more I realize that it's actually a team sport. It's pretty cool how it's all about teamwork in the end!
+As I practice pair programming with a new colleague recently, I discovered once again how good it is to have an extra pair of eyes to debug the code (and it makes it so much more time-efficient). You know, I used to think that programming was all about doing your thing solo, like a one-person show. But the more I dive into it, the more I realize that it's actually a team sport. It's pretty cool how it's all about teamwork in the end!
 
 ### Links to work/resources ###
 [More about at()](https://www.freecodecamp.org/news/javascript-at-method/)
@@ -42,7 +42,7 @@ As I practice pair programming with a new colleague recently, I discovere once a
 
 ### Today's progress ###
 * I spent some time with my pair programming partner on Codewars challenges, manipulating arrays and transforming strings. I needed to check the documentation of join(), especially how it behaves on the arrays containing arrays (you cannot control the separators of the nested arrays!) 
-* I read a bit unary plus (+), which evaluates to the operand, but tries to evaluate it to the number. I didn't think about the consequences of that for nonnumerical values, good to keep it in mind.  
+* I read about unary plus (+), which evaluates the operand, but tries to evaluate it to the number. I didn't think about the consequences of that for nonnumerical values, good to keep it in mind.  
 
       const x = 1;
       console.log(+x);
