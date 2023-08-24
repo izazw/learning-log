@@ -16,6 +16,7 @@
 
         const myGatineau =["Pink Lake Trail", "King Mountain Trail", "Luskville Falls Trail",
         "Champlain Lookout Trail", "Wolf Trail"]
+  
         console.log(myGatineau.at(0))
         //output: "Pink Lake Trail"
         console.log(myGatineau.at(-1))
