@@ -8,6 +8,30 @@
 ### Links to work/resources ###
 
 -->
+## 5 ##
+*14th September*
+
+### Today's progress ###
+* I used a throw statement for throwing an error while checking the area of a circle in this codewars.com [kata](https://www.codewars.com/kata/537baa6f8f4b300b5900106c)
+
+          function circleArea(radius) {
+              if(radius > 0) {
+              const area = (Math.PI*Math.pow(radius, 2))
+              return area
+              } else {
+                 throw new Error ("Radius must be positive number")  
+              }      
+          }
+* I had a cool discussion about the differences between types of rounding of numbers. I've checked the differences between toFixed(), Math.floor(), Math.ceiling() and toPrecision(), I've learned what significant digits are. Cool!
+  
+### Thoughts ###
+I recently spent a lot of time with the tech community in Ottawa (Ottawa tech meetup this week, and I hope to join Ottawa React meetup next week too). Apart from finishing the mentor training for Canada Learning Code, I enrolled in the new project as a volunteer front-end developer. I'm also going slowly through the cybersecurity certification and I started my [Joy Of React](https://www.joyofreact.com/) course. I'm really busy but I can't stop, because one thing learned usually means 10 new to learn 🤷‍♀️.  Which is exciting 🎉
+
+### Links to work/resources ###
+* [Joy of React by Josh W. Caomeau](https://www.joyofreact.com/)
+* [OttawaJS meetups](https://ottawajs.org/)
+* [toFixed() on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed)
+
 ## 4 ##
 *23rd August*
 
