@@ -22,7 +22,7 @@
                  throw new Error ("Radius must be positive number")  
               }      
           }
-* I had a cool discussion about the differences between types of rounding of numbers. I've checked the differences between toFixed(), Math.floor(), Math.ceiling() and toPrecision(), I've learned what significant digits are. Cool!
+* I had an interesting discussion with my pair programming partner about the differences between types of rounding of numbers. I've checked the differences between toFixed(), Math.floor(), Math.ceiling() and toPrecision(), and I've learned what significant digits are. Cool!
   
 ### Thoughts ###
 I recently spent a lot of time with the tech community in Ottawa (Ottawa tech meetup this week, and I hope to join Ottawa React meetup next week too). Apart from finishing the mentor training for Canada Learning Code, I enrolled in the new project as a volunteer front-end developer. I'm also going slowly through the cybersecurity certification and I started my [Joy Of React](https://www.joyofreact.com/) course. I'm really busy but I can't stop, because one thing learned usually means 10 new to learn 🤷‍♀️.  Which is exciting 🎉
