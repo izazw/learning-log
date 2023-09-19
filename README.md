@@ -2,12 +2,39 @@
 
 <!-- 
 ## 2 ##
-*21st August*
+*21st September*
 ### Today's progress ###
 ### Thoughts ###
 ### Links to work/resources ###
-
 -->
+
+## 6 ##
+*18th September*
+### Today's progress ###
+* I solved another [Codewar kata](https://www.codewars.com/kata/539de388a540db7fec000642). I learned that you can compare the dates using the new Date() constructor.
+
+  
+
+          function checkCoupon(enteredCode, correctCode, currentDate, expirationDate){
+            const enteredDate = new Date(currentDate);
+            const expiredDate = new Date(expirationDate);
+          
+            if (enteredCode === correctCode && enteredDate <= expiredDate) {
+             return true;
+            } else {
+             return false;
+            }
+          }
+  
+* As I'm progressing in my cybersecurity course, I learned about the differences between PII (Personal Identifiable Information, including home address, e-mail, phone number, date of birth, IP address) and SPII (Sensitive Personal Identifiable Information, including biometric data, medical data, SSN number). I feel that nowadays understanding the basics of cybersecurity is like the ABCs of keeping our digital world safe.
+  
+### Thoughts ###
+
+I just had my first meeting on the Kids First project as a front-end developer. I'm super excited. It's my first experience joining a project that's already in full swing. That gives me a fresh perspective. It also shows me even better the importance of effective communication and solid documentation. A lot to learn! 
+
+### Links to work/resources ###
+* [Date constructor on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/Date#return_value)
+
 ## 5 ##
 *14th September*
 
