@@ -58,6 +58,7 @@ And just as a mental exercise, I checked if I could rewrite it with reduce() (an
 
 ### Thoughts ###
 
+Today, I joined the second meeting for the Kids First project. I met the other teams and took part in discussions about data structures, UI, and information flow. It's fascinating to see the complexity of the decisions and the many factors that need consideration before making final choices. I have a lot to learn to fully engage, but I'm hopeful that my experience with React, styling and Figma files will be valuable!
 
 ### Links to work/resources ###
 * [Brain virus](https://en.wikipedia.org/wiki/Brain_(computer_virus))
