@@ -8,8 +8,66 @@
 ### Links to work/resources ###
 -->
 
+
+
+## 7 ##
+*19th September*
+
+### Today's progress ###
+* I spent some time working on [this kata on Codewars](https://www.codewars.com/kata/5d49c93d089c6e000ff8428c). When working on the programming problem, I tried different ways and found two solutions that worked.
+
+I've started with this one: 
+
+    function save(sizes, hd) {
+      let sum = 0 
+      let i = 0
+      while (sum <= hd) {
+        sum = sum + sizes[i]
+        i++
+      }
+             
+      return i - 1
+    }
+
+I tested it, and it passed all the exercise tests. But I noticed an issue when I considered an edge case: when the arguments are sizes = [1, 1, 1] and hd = 30. In this case, the test condition fails not because it meets the loop's criteria but because undefined <= hd results in NaN. And NaN is considered false in the condition statement. I decided to add an additional if statement to cover that. 
+
+    function save(sizes, hd) { 
+      let i = 0;
+      while (sum <= hd ) {
+        sum = sum + sizes[i]
+        i++
+        if (i >= sizes.length) {
+          return i
+        }
+      }
+      return i - 1
+    }
+
+And just as a mental exercise, I checked if I could rewrite it with reduce() (and I did :-). 
+
+    function save(sizes, hd) {
+      let result = 0;
+      sizes.reduce((acc, curr) => {
+        if ((acc += curr) <= hd) result += 1;
+        return acc;
+      }, 0);
+      return result;
+    }
+
+* I've learned about the stories that have shaped today's cybersecurity landscape, including the Brain virus, Morris worm, Love letter, and the Equifax data breach. These stories are truly fascinating! 😄
+
+### Thoughts ###
+
+
+### Links to work/resources ###
+* [Brain virus](https://en.wikipedia.org/wiki/Brain_(computer_virus))
+* [Morris worm](https://en.wikipedia.org/wiki/Morris_worm)
+* [ILOVEYOU virus](https://en.wikipedia.org/wiki/ILOVEYOU)
+* [Equifax data breach](https://en.wikipedia.org/wiki/2017_Equifax_data_breach) 
+  
 ## 6 ##
 *18th September*
+
 ### Today's progress ###
 * I solved another [Codewar kata](https://www.codewars.com/kata/539de388a540db7fec000642). I learned that you can compare the dates using the new Date() constructor.
 
@@ -29,7 +87,6 @@
 * As I'm progressing in my cybersecurity course, I learned about the differences between PII (Personal Identifiable Information, including home address, e-mail, phone number, date of birth, IP address) and SPII (Sensitive Personal Identifiable Information, including biometric data, medical data, SSN number). I feel that nowadays understanding the basics of cybersecurity is like the ABCs of keeping our digital world safe.
   
 ### Thoughts ###
-
 I just had my first meeting on the Kids First project as a front-end developer. I'm super excited. It's my first experience joining a project that's already in full swing. That gives me a fresh perspective. It also shows me even better the importance of effective communication and solid documentation. A lot to learn! 
 
 ### Links to work/resources ###
