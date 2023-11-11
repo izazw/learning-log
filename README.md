@@ -16,6 +16,9 @@ I started to work on redesigning my portfolio and I can't wait to share the new 
 ### Thoughts ###
 I regularly read tech newsletters. But the one that I always open and always read till the very end is the one by Quincy Larson from the FreeCode Camp. As a long life learner, I'm always excited for some inspiration on learning topics, and there is always a great quote. I appreciate a lot Quincy's talent for storytelling. I didn't have time to read [his book](https://www.freecodecamp.org/news/learn-to-code-book/), so I appreciated the [audio version](https://open.spotify.com/episode/7hz0vgue0AQWoB2CFsmwar?si=13cdd2a88ac74cbc). Really nice and encouraging one! It gave me some good vibes.  
 
+### Links to work/resources ###
+[FreeCodeCamp](### Links to work/resources ###) - but you already know it, right?
+
 
 ## 7 ##
 *19th September*
