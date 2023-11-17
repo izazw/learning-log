@@ -8,6 +8,69 @@
 ### Links to work/resources ###
 -->
 
+## 9 ##
+*17th November*
+### Today's progress ###
+
+I worked on some Codewars challenges this week. The [FizzBuzz Backwards](https://www.codewars.com/kata/59ad13d5589d2a1d84000020) is a reversed version of a classical FizzBuzz problem. The actual challenge was in defining logical conditions. It was a satisfying one!
+
+            function reverseFizzBuzz(array) {
+            
+              let fizz; 
+              let buzz;
+              let fizzBuzz;
+              let result = [];
+                  
+              array.map(el => {
+                  if (el === "Fizz") {
+                     fizz = array.indexOf(el) + 1;
+                  }
+                  if (el === "Buzz") {
+                     buzz = array.indexOf(el) + 1; 
+                  }
+                  if (el === "FizzBuzz") {
+                     fizzBuzz = array.indexOf(el) + 1;
+                  }
+               })
+            
+               if (buzz === undefined && typeof fizz === "number") {
+                  result.push(fizz, fizzBuzz)
+               }
+               else if ( fizz === undefined && buzz  === undefined) {
+                  result.push(fizzBuzz, fizzBuzz)
+               }
+               else {
+                  result.push(fizz, buzz)
+               }    
+               return result;
+            };
+
+
+I recently came across a few JavaScript challenges where I had to determine if the word in a string began with a capital letter. In the  [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148) I decided to explore an approach different than match() and instead, I used a conditional statement.  
+
+    function solution(string) {
+            let entryString = [...string]
+            let result = [];
+            for (let i = 0; i < string.length; i++) {
+               if(string[i] === string[i].toUpperCase()) {
+               result.push(" ");
+               result.push(string[i]) 
+               } else {
+                    result.push(string[i])
+               }
+            }
+            return result.join("")
+       }
+
+
+### Thoughts ### 
+
+It was a really busy week! I assisted the project manager in creating a streamlined onboarding process for the new developers joining our volunteer project in Ottawa. I hope it will make onboarding easier for the new people joining the initiative and that it will prompt quicker contributions and first pull requests. On Wednesday I spent the evening at the Ottawa JavaScript meetup, learning about the new W3c Web Sustainability Guidelines. Additionally, I took part in two pair programming sessions. My partner teases our laughter, but I find collaborative coding super enjoyable! 
+
+### Links to work/resources ###
+* [W3c Web Sustainability Guidelines 1.0](https://w3c.github.io/sustyweb/)
+
+
 ## 8 ##
 *10th November*
 ### Today's progress ###
