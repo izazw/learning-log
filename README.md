@@ -9,7 +9,7 @@
 -->
 
 ## 9 ##
-*17th November*
+*17th November* 
 ### Today's progress ###
 
 I worked on some Codewars challenges this week. The [FizzBuzz Backwards](https://www.codewars.com/kata/59ad13d5589d2a1d84000020) is a reversed version of a classical FizzBuzz problem. The actual challenge was in defining logical conditions. It was a satisfying one!
