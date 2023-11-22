@@ -4,7 +4,7 @@
 ## 2 ##
 *21st September*
 ### Today's progress ###
-### Thoughts ###
+### Thoughts ### 
 ### Links to work/resources ###
 -->
 
