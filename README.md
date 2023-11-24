@@ -6,6 +6,7 @@
 ### Today's progress ###
 ### Thoughts ### 
 ### Links to work/resources ###
+
 -->
 
 ## 9 ##
