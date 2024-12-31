@@ -10,6 +10,25 @@
 
 -->
 
+## 10 ##
+*29 December 2024*
+### Today's progress ###
+First JavaScript Codewars kata in a while. 
+
+### Thoughts ### 
+How does it feel to put your hand on a piece of code after a while?
+
+It's a good feeling, and I'm happy to be back.
+This past year brought me a new job in the software industry as an Implementation Consultant. It’s been an eye-opening experience to not only use a software solution but also see how clients utilize it and help them set up for success.
+I've grounded myself well in the consultant role, taken on some project management responsibilities, learned some SQL, and gained a deeper understanding of project lifecycles, product development, and how solution architecture can contribute to user success.
+
+What was unexpected was realizing that teaching and mentoring others is even more rewarding than I thought. What was expected - but still surprising - is just how important strong communication skills truly are.
+
+After all of that, I found the mental capacity to get back into programming - something I’m very proud of.
+
+### Links to work/resources ###
+[Back to the basics](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) 
+
 ## 9 ##
 *17th November* 
 ### Today's progress ###
